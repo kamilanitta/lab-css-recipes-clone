@@ -1,0 +1,62 @@
+/* TAG */
+body{
+display: block;
+width: 900px;
+height: 100%;
+margin: 0 auto;
+word-spacing: 3px;
+line-height: 1.5;
+}
+
+p {
+   font-family: Verdana, sans-serif; 
+   color: #2c2c2c;
+   text-align: justify;
+   
+}
+
+
+hr{
+    width: 90%;
+    border: 1px solid;
+    color: #989898;
+    margin: 5% auto;
+    text-align: center;
+}
+
+/* CLASS */
+.hero-image {
+    width: 900px;
+    height: 500px;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: aboslute;
+  text-align: center;
+    
+}
+
+.hero-text{
+    color: white;
+    
+    margin: 0 auto 0 auto;
+    font-family: 'Poppins', sans-serif;
+    font-size: 180%;
+    position: absolute;
+    left:50%;
+    top:30%;
+    transform: translate(-50%, -50%);
+
+}
+
+.img-inst{
+    width: 300px;
+    display: block;
+    margin: 5% auto;
+}
+
+.body_content {
+    margin-bottom: 10%;
+    width: 90%;
+    margin: 80px auto 0 auto;
+}
